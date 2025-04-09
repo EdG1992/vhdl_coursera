@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../cmprtr4_BE.srcs/sources_1/new/cmprtr4_BE.vhd" \
+"../../../../cmprtr4_BE.srcs/sim_1/new/cmprtr4_BE_TB.vhd" \
+
+# Do not sort compile order
+nosort

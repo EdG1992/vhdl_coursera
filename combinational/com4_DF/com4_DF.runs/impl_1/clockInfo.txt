@@ -1,0 +1,18 @@
+-------------------------------------
+| Tool Version : Vivado v.2024.2
+| Date         : Tue Apr  8 15:51:07 2025
+| Host         : DESKTOP-G0M3A7E
+| Device       : xcve2002-sbva484-1LHP-I-L
+-------------------------------------
+
+For more information on clockInfo.txt clock routing debug file see https://support.xilinx.com/s/article/000035660?language=en_US
+
+*********************
+Validating user input
+*********************
+No user input conflicts found
+
+
+*******************************************
+Clock Net Info After Depositing Clock Trees
+*******************************************

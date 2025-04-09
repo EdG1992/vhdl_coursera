@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "com4_DF_behav" "xil_defaultlib.com4_DF" -log "elaborate.log" 

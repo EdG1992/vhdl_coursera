@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/eddy/Documents/vhdl/coursera/combinational/cmprtr4_BE/cmprtr4_BE.srcs/sources_1/new/cmprtr4_BE.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'cmprtr4_BE'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/eddy/Documents/vhdl/coursera/combinational/cmprtr4_BE/cmprtr4_BE.srcs/sim_1/new/cmprtr4_BE_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'cmprtr4_BE_TB'

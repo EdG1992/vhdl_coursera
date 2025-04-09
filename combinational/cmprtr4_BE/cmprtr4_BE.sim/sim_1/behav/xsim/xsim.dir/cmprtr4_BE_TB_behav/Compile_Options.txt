@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "cmprtr4_BE_TB_behav" "xil_defaultlib.cmprtr4_BE_TB" -log "elaborate.log" 
