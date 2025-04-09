@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/eddy/Documents/vhdl/vhdl_coursera/combinational/bin_2_gray/bin_2_gray.srcs/sources_1/new/bin_2_gray.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bin_2_gray'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/eddy/Documents/vhdl/vhdl_coursera/combinational/bin_2_gray/bin_2_gray.srcs/sim_1/new/bin_2_gray_ST.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bin_2_gray_ST'
