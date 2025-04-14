@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/eddy/Documents/vhdl/vhdl_coursera/sequential/d_latch_2/d_latch_2.srcs/sources_1/new/dLatch_DF.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'dLatch_DF'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/eddy/Documents/vhdl/vhdl_coursera/sequential/d_latch_2/d_latch_2.srcs/sim_1/new/dLatch_DF_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'dLatch_DF_TB'
