@@ -56,7 +56,7 @@ begin
     stimulus: process begin
         wait for 10 ns;
         andGate_A(1) <= '0'; andGate_A(0) <= '0'; wait for 10 ns;
-        andGate_A(1) <= '0'; andGate_A(1) <= '0'; wait for 10 ns;
+        andGate_A(1) <= '0'; andGate_A(0) <= '1'; wait for 10 ns;
         andGate_A(1) <= '1'; andGate_A(0) <= '0'; wait for 10 ns;
         andGate_A(1) <= '1'; andGate_A(0) <= '1'; wait;
     end process;
