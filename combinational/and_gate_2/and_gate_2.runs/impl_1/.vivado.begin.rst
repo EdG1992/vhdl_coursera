@@ -73,3 +73,13 @@
     <Process Command="vivado.bat" Owner="eddy" Host="DESKTOP-G0M3A7E" Pid="11044" HostCore="8" HostMemory="016918601728">
     </Process>
 </ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="eddy" Host="DESKTOP-G0M3A7E" Pid="22812" HostCore="8" HostMemory="016918601728">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="eddy" Host="DESKTOP-G0M3A7E" Pid="5100" HostCore="8" HostMemory="016918601728">
+    </Process>
+</ProcessHandle>
