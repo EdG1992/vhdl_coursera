@@ -1,0 +1,4 @@
+ERROR: Exception caught trying to open file C:\Users\eddy\Documents\vhdl\vhdl_coursera\combinational\and_gate_2\and_gate_2.runs\impl_1/runme.log
+	Exception name: Error
+	Exception error code: 70
+	Exception message: Permission denied

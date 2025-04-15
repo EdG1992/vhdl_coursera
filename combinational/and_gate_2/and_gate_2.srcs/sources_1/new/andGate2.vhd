@@ -32,8 +32,8 @@ use IEEE.STD_LOGIC_1164.ALL;
 --use UNISIM.VComponents.all;
 
 entity andGate2 is
-    Port ( andGate_A : in STD_LOGIC_VECTOR (1 downto 0);
-           andGate_Z : out STD_LOGIC);
+    Port ( andGate_A : in STD_LOGIC_VECTOR (3 downto 0);
+           andGate_Z : out STD_LOGIC_VECTOR (3 downto 0));
 end andGate2;
 
 architecture Behavioral of andGate2 is
@@ -41,6 +41,9 @@ architecture Behavioral of andGate2 is
 begin
     
     process(andGate_A) begin
-        andGate_Z <= andGate_A(1) and andGate_A(0);
+        andGate_Z(3) <= andGate_A(3) or andGate_A(2);
+        andGate_Z(2) <= andGate_A(3) or andGate_A(2);
+        andGate_Z(1) <= andGate_A(1) or andGate_A(0);
+        andGate_Z(0) <= andGate_A(1) or andGate_A(0);
     end process;
 end Behavioral;
