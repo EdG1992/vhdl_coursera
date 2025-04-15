@@ -39,5 +39,8 @@ end andGate2;
 architecture Behavioral of andGate2 is
 
 begin
-    andGate_Z <= andGate_A(1) and andGate_A(0);
+    
+    process(andGate_A) begin
+        andGate_Z <= andGate_A(1) and andGate_A(0);
+    end process;
 end Behavioral;

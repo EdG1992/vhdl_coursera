@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:C:/Users/eddy/Documents/vhdl/vhdl_coursera/combinational/and_gate_2/and_gate_2.srcs/constrs_1/new/andGate2.xdc rfile:../../../and_gate_2.srcs/constrs_1/new/andGate2.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN L19 [get_ports {andGate_A[1]}]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN L20 [get_ports {andGate_A[0]}]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN L13 [get_ports andGate_Z]
